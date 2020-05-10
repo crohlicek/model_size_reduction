@@ -25,5 +25,6 @@ Files related to 18.065 (MIT: Matrix Methods in Data Analysis, Signal Processing
 	- Method to get the SVD matrices used in dividing each fully conected layer
 	- Constructor to generate network with fully connected layers' weight matrices decomposed into US and V^T matrices through insertion of intermediate layer, for S the diagonal matrix of a reduced number of singular values.
 	- Data collection method to automate experiments for networks constructed to a set of specified percentages of remaining singular values
-
+- **18_065_Final_Project_Report.pdf**:
+	- Project report summarizing the experiments and theory
 
